@@ -1,7 +1,8 @@
 Hi, My name is Benedict Eric Uydiangco.
 
 
-I'm currently pursuing a Bachelor of Science degree in Computer Science at DLSUD. I have recently completed my required internship at Hacktive Collab, Inc., and it was a great experience. During my internship, I had the opportunity to work with Microsoft Power Platform, which offers a range of useful applications, including automation, database management, model-driven apps, and more.
+I'm currently pursuing a Bachelor of Science degree in Computer Science at DLSUD. I have recently completed my required internship at Hacktive Collab, Inc., and it was a great experience. 
+During my internship, I had the opportunity to work with Microsoft Power Platform, which offers a range of useful applications, including automation, database management, model-driven apps, and more.
 
 I studied SHS in LPU-Cavite with TVL-ICT. It was a valuable experience considering many events happened during our school year, and i had the opportunity to make many friends during that time. 
 
